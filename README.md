@@ -119,10 +119,10 @@ Participants are encouraged to customize the user interface and incorporate addi
      - **Reading:** [MongoDB Schema Design](https://mongoosejs.com/docs/guide.html)  
      - **Video:** [Mongoose Models Tutorial](https://www.youtube.com/watch?v=DZBGEVgL2eE&t=30s)
   2. Set up JWT-based authentication.
-    - **Reading:** [JWT Basics](https://jwt.io/introduction/)
-    - **Video:** [JWT Implementation](https://www.youtube.com/watch?v=mbsmsi7l3r4&t=1364s)
+     - **Reading:** [JWT Basics](https://jwt.io/introduction/)
+     - **Video:** [JWT Implementation](https://www.youtube.com/watch?v=mbsmsi7l3r4&t=1364s)
   3. Build login and signup forms in React.
-   - **Reading:** [React Forms](https://react.dev/reference/react-dom/components/form)
+     - **Reading:** [React Forms](https://react.dev/reference/react-dom/components/form)
      - **Video:** [Building Forms in React](https://www.youtube.com/watch?v=SdzMBWT2CDQ&t=1s)
 
 - **Deliverables:**
