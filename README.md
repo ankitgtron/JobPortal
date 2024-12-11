@@ -194,6 +194,26 @@ Participants are encouraged to customize the user interface and incorporate addi
 
 ---
 **Check out the screenshots for your references:**
+- ![Screenshot (170)](https://github.com/user-attachments/assets/f4b1d93f-570a-4517-b2ab-d176d5e857aa)
+![Screenshot (171)](https://github.com/user-attachments/assets/8230aacf-bf28-4bdb-b5df-9937a2566683)
+![Screenshot (172)](https://github.com/user-attachments/assets/7f086f07-d1ba-4a0d-acb2-0cb37a3bff3e)
+![Screenshot (173)](https://github.com/user-attachments/assets/850fe6ee-d7fa-422f-b847-87ac6b7ddfff)
+![Screenshot (153)](https://github.com/user-attachments/assets/21fe7e2d-469c-4b9f-9648-cac699effe54)
+![Screenshot (155)](https://github.com/user-attachments/assets/cd5738d5-9aca-4546-8b2b-22be2408aaac)
+![Screenshot (156)](https://github.com/user-attachments/assets/55e49153-629c-4424-945c-d8cce246541c)
+![Screenshot (157)](https://github.com/user-attachments/assets/9f0d45c7-0402-4dc8-b97f-fe119ff6490a)
+![Screenshot (158)](https://github.com/user-attachments/assets/8712d7ae-8cdc-4bcd-a0e0-7ebfe79ed92f)
+![Screenshot (159)](https://github.com/user-attachments/assets/220ca8bd-99b6-4eb9-8c69-425a83ea091d)
+![Screenshot (160)](https://github.com/user-attachments/assets/aa893a5f-f986-4699-bbf5-a7fb6d813e03)
+![Screenshot (161)](https://github.com/user-attachments/assets/4fdd6ca1-2021-4d4c-8bbd-82b2ec42d1df)
+![Screenshot (162)](https://github.com/user-attachments/assets/986c692f-23c6-4e24-8dc3-80be87ee511d)
+![Screenshot (163)](https://github.com/user-attachments/assets/4d2440aa-4387-42a0-9882-a3531bee816b)
+![Screenshot (164)](https://github.com/user-attachments/assets/2339081c-5195-44e5-a9ae-28d0ef3b73a1)
+![Screenshot (165)](https://github.com/user-attachments/assets/fd352b44-cc22-494d-b20f-eb4834639600)
+![Screenshot (166)](https://github.com/user-attachments/assets/141d229a-4b97-4e34-8bba-d531e85fdc5b)
+![Screenshot (167)](https://github.com/user-attachments/assets/722a5f64-1842-430d-89c1-56de13420a78)
+![Screenshot (168)](https://github.com/user-attachments/assets/569b544a-458f-41d0-97cd-35da1a1f5c76)
+![Screenshot (169)](https://github.com/user-attachments/assets/88637a49-e76b-49a3-a146-2e4b621acadf)
 
 
 
