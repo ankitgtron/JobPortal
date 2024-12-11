@@ -102,6 +102,9 @@ Participants are encouraged to customize the user interface and incorporate addi
   3. Build a basic Express server and connect it to MongoDB.
      - **Reading:** [Express.js Basics](https://expressjs.com/)
      - **Video:** [Express Server Setup](https://www.youtube.com/watch?v=L72fhGm1tfE)
+4. Set up Tailwind CSS in the React app.
+     - **Reading:** [Tailwind CSS Docs](https://tailwindcss.com/docs/installation)
+     - **Video** [Tailwind CSS lecture](https://www.youtube.com/watch?v=UBOj6rqRUME)
 
 - **Deliverables:**
   - Basic project setup with running server and frontend.
