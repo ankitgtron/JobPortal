@@ -97,7 +97,7 @@ Participants are encouraged to customize the user interface and incorporate addi
      - **Reading:** [Setting Up MERN Stack](https://www.mongodb.com/mern-stack)  
      - **Video:** [MERN Stack Crash Course](https://www.youtube.com/watch?v=fnpmR6Q5lEc)
   2. Create the project directory structure.
-      - **Reading:** [React App Structure](https://reactjs.org/docs/getting-started.html)
+      - **Reading:** [React App Structure](https://react.dev/learn)
      - **Video:** [React tutorial](https://www.youtube.com/watch?v=RGKi6LSPDLU&t=4589s)
   3. Build a basic Express server and connect it to MongoDB.
      - **Reading:** [Express.js Basics](https://expressjs.com/)
