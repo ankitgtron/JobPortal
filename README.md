@@ -155,7 +155,7 @@ Participants are encouraged to customize the user interface and incorporate addi
 - **Tasks:**
 1. Build APIs for job application submission and tracking.
      - **Reading:** [Express APIs with MongoDB](https://mongoosejs.com/docs/queries.html)
-     - **Video:** [Express API Tutorial](https://www.youtube.com/watch?v=vn3tm0quoqE)
+     - **Video:** [Express API Tutorial](https://www.youtube.com/watch?v=_7UQPve99r4)
   2. Create application management dashboards for recruiters.
      - **Reading:** [React Dashboards](https://reactjs.org/docs/thinking-in-react.html)
      - **Video:** [Admin Dashboard Tutorial](https://www.youtube.com/watch?v=bDNy1pF0jqA)
