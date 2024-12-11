@@ -102,9 +102,9 @@ Participants are encouraged to customize the user interface and incorporate addi
   3. Build a basic Express server and connect it to MongoDB.
      - **Reading:** [Express.js Basics](https://expressjs.com/)
      - **Video:** [Express Server Setup](https://www.youtube.com/watch?v=L72fhGm1tfE)
-4. Set up Tailwind CSS in the React app.
-     - **Reading:** [Tailwind CSS Docs](https://tailwindcss.com/docs/installation)
-     - **Video** [Tailwind CSS lecture](https://www.youtube.com/watch?v=UBOj6rqRUME)
+   4. Set up Tailwind CSS in the React app.
+      - **Reading:** [Tailwind CSS Docs](https://tailwindcss.com/docs/installation)
+      - **Video** [Tailwind CSS lecture](https://www.youtube.com/watch?v=UBOj6rqRUME)
 
 - **Deliverables:**
   - Basic project setup with running server and frontend.
@@ -116,13 +116,13 @@ Participants are encouraged to customize the user interface and incorporate addi
 
 - **Tasks:**
   1. Create user schemas using Mongoose.
-    - **Reading:** [MongoDB Schema Design](https://mongoosejs.com/docs/guide.html)  
+     - **Reading:** [MongoDB Schema Design](https://mongoosejs.com/docs/guide.html)  
      - **Video:** [Mongoose Models Tutorial](https://www.youtube.com/watch?v=DZBGEVgL2eE&t=30s)
   2. Set up JWT-based authentication.
     - **Reading:** [JWT Basics](https://jwt.io/introduction/)
     - **Video:** [JWT Implementation](https://www.youtube.com/watch?v=mbsmsi7l3r4&t=1364s)
   3. Build login and signup forms in React.
-     - **Reading:** [React Forms](https://react.dev/reference/react-dom/components/form)
+   - **Reading:** [React Forms](https://react.dev/reference/react-dom/components/form)
      - **Video:** [Building Forms in React](https://www.youtube.com/watch?v=SdzMBWT2CDQ&t=1s)
 
 - **Deliverables:**
