@@ -83,27 +83,30 @@ The diagram below shows one of the possible workflows as a reference. Participan
 ---
 
 ### **System Architecture**
-This section demonstrates the high-level architecture of the UberClone app, showcasing the interaction between the frontend, backend, database, and external APIs.
+This section demonstrates the high-level architecture of the **JobMatch** app, showcasing the interaction between the frontend, backend, database, and external services like Cloudinary for file uploads.
 ![diagram-export-12-12-2024-9_53_26-AM](https://github.com/user-attachments/assets/79bfcbe5-b2b1-4946-a355-717060b9be20)
 
 
 ---
 
 ### **Database Design**
-This section presents the database schema, highlighting the relationships between key entities like Users, Rides, and Payments.
+This section presents the database schema, highlighting the following:
+- The structure of the **Users**, **Jobs**, **Applications**, and **Payments** collections.
+- Relationships between collections (e.g., **userID** in Applications links to the Users collection, **jobID** links to the Jobs collection).
+- Key fields and their purposes in each collection.
 ![diagram-export-12-12-2024-9_57_13-AM](https://github.com/user-attachments/assets/6a05a070-c33e-4079-b923-ce36d5d02aef)
 
 
 ---
 
 ### **Flowchart**
-This section provides a visual representation of the overall flow of the UberClone application, including user registration, ride booking, driver interactions, and payment processing.
+This section provides a visual representation of the overall flow of the **JobMatch** application, including user registration, job posting, job application, and application management.
 ![diagram-export-12-12-2024-9_56_01-AM](https://github.com/user-attachments/assets/93738d49-0aa0-4209-b853-5619d4534944)
 
 ---
 
 ### **Sequence Diagram**
-This section presents the sequence of interactions between the different components of the UberClone application, including users, drivers, and the backend system.
+This section presents the sequence of interactions between the different components of the **JobMatch** application, including users (job seekers and recruiters), the backend system, and external services.
 ![diagram-export-12-12-2024-10_02_27-AM](https://github.com/user-attachments/assets/da156f5d-e541-4972-94ac-4f658e04034a)
 
 ---
