@@ -76,7 +76,7 @@ To build a robust job portal application with intuitive features that connect jo
 ---
 
 ## **Workflow Overview**
-This section illustrates the complete workflow for users, drivers, and admins, covering all major functionalities of the UberClone application.
+This section illustrates the complete workflow for job seekers, recruiters, and admins in the JobMatch application, which simplifies the job search and hiring process.
 
 The diagram below shows one of the possible workflows as a reference. Participants are encouraged to expand, modify, and customize the workflows to align with their specific project requirements and creativity.
 
