@@ -90,10 +90,7 @@ This section demonstrates the high-level architecture of the **JobMatch** app, s
 ---
 
 ### **Database Design**
-This section presents the database schema, highlighting the following:
-- The structure of the **Users**, **Jobs**, **Applications**, and **Payments** collections.
-- Relationships between collections (e.g., **userID** in Applications links to the Users collection, **jobID** links to the Jobs collection).
-- Key fields and their purposes in each collection.
+This section presents the database schema, highlighting the structure of key collections such as Users, Jobs, Recruiter, as well as the relationships between them.
 ![diagram-export-12-12-2024-9_57_13-AM](https://github.com/user-attachments/assets/6a05a070-c33e-4079-b923-ce36d5d02aef)
 
 
